@@ -1,0 +1,109 @@
+nav a:link{
+	color: hotpink;
+}
+nav a:visited{
+	color: hotpink;
+}
+nav a:hover{
+	color: red;
+}
+a:link{
+	color: darkred;
+}
+a:visited{
+	color: darkred;
+}
+a:hover{
+	color: darkred;
+}
+body{
+	border: 8.5in 11in;
+	display: inline-block;
+	width: 8in;
+	height: 10.5in;
+	background: #6b94ff;
+	color: darkred;
+}/*body styling*/
+
+nav{
+	display: inline-block;
+	background: black;
+	width: 45%;
+	height: 0.5in;
+	margin-left: 28%;
+	padding-left: 35px;
+	color: white;
+}/*nav styling*/
+
+h1{
+	font-size: 35pt;
+	padding-left: 35%;
+}
+h2{
+	color: darkred;
+}
+dl{
+/*	border: solid black 2px;*/
+	padding-left: 20px;
+}
+dt {
+	font-size: 18px;
+}
+figure{
+
+	float: right;
+}
+
+footer{
+	background: white;
+	padding: 5px;
+}
+
+#addressbox{
+	display: inline-block;
+	width: 50%;
+	height: 2in;
+	margin-top: 15px;
+	margin-left: 10px;
+	float: left;
+}/*addressbox styling*/
+
+#contact{
+	padding-left: 20px;
+}
+
+#facebox{
+	display: inline-block;
+	width: 35%;
+	height: 3in;
+	margin-top: 15px;
+	margin-right: 10px;
+	float: right;
+}/*facebox styling*/
+
+#facebox img{
+	width:100%;
+	height:100%;
+}
+#edbox{
+	display: inline-block;
+	width: 50%;
+	height: 2in;	
+	margin-top: 15px;
+	margin-left: 10px;
+}/*edbox styling*/
+#workbox{
+	display: inline-block;
+	width: 97%;
+	height: 2in;	
+	margin-left: 10px;
+}/*edbox styling*/
+#hobbiesbox{
+	display: inline-block;
+	width: 97%;
+	height: 2in;	
+	margin-left: 10px;
+}
+#hobbies{
+	padding-left: 20px;
+}
